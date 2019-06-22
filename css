@@ -1,0 +1,56 @@
+.contact .input
+{
+    padding-top: 100px;
+    display: block;
+    margin: auto;
+}
+
+.contact  input
+{
+    color: #fff;
+}
+
+.contact input, .contact textarea 
+{
+    background-color: #f92c50;
+    color: #fff;
+    border-radius: 4px;
+    padding: 25px 0 20px 25px;
+    border: 1px solid #fff;
+    width: 100%;
+    height: 90%;
+}
+
+.contact input::placeholder, .contact textarea::placeholder
+{
+    color: #fff;
+}
+
+.contact .input .name
+{
+    margin-top: 90px;
+}
+
+.contact .button5
+{
+    float: right;
+    margin-top: 70px;
+}
+
+.contact .button5 a
+{
+    text-decoration: none;
+    border: 1px solid #ff6347;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: #ff6347;
+    padding: 20px 60px 20px 60px;
+    color: white;
+}
+
+.contact .button5 a:hover
+{
+    background-color: #62f4c8;
+    opacity: 0.5s;
+    transition: 0.5s;
+}
