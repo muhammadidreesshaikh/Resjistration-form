@@ -4,35 +4,6 @@
     background-color: white;
 }
 
-.form .gif img
-{
-    width: 100%;
-    height: auto;
-}
-
-button, select
-{
-    text-transform: none;
-    width: 50%;
-    height: auto;
-    font-size: 16px;
-    color: gray;
-    line-height: 1;
-    border: 0;
-    padding: 12px 10px;
-    border-radius: 5px;
-    border: 1px solid #a3a3a3;
-    background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right white;
-    -webkit-appearance: none;
-    background-position-x: 95%;
-    margin-top: 5%;
-}
-
-.form  input
-{
-    color: #fff;
-}
-
 .form input, .form textarea 
 {
     background-color: #2bb673;
@@ -48,11 +19,6 @@ button, select
 .form input::placeholder, .form textarea::placeholder
 {
     color: #fff;
-}
-
-.form .input .name
-{
-
 }
 
 .form .button5
